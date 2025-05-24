@@ -36,7 +36,7 @@ Wavely is a full-stack real-time chat application built using the **MERN** stack
 
 | Login | Chat UI |
 |-------|---------|
-| ![Login](./Screenshots/login.jpeg) | ![Chat](./Screenshots/chat.jpeg) |
+| ![Login](./Screenshots/login.jpg) | ![Chat](./Screenshots/chat.jpg) |
 
 
 ---
