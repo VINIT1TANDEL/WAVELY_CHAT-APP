@@ -5,7 +5,7 @@ Wavely is a full-stack real-time chat application built using the **MERN** stack
 ---
 
 ## 🌐 Live Demo
-[🔗 Deployed Link (if hosted)](https://chatapp-frontend-coral.vercel.app/)
+[🔗 Deployed Link ](https://chatapp-frontend-coral.vercel.app/)
 
 ---
 
